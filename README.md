@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%3E+python3+-m+build_intelligent_systems;%3E+sudo+systemctl+start+cloud_native;%3E+./deploy_ai_models.sh;%3E+git+commit+-m+%22ACM+Chairperson%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Integrating+AI+with+Backend+Systems;Building+Scalable+Architectures;SRMIST+ACM+Chapter+Chairperson" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,20 +13,20 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3><code>❯ ~/about_me</code></h3>
-      <p>I am an AI/ML Engineer and Full Stack Developer focused on computer vision, scalable backend architectures, and clean, efficient code.</p>
+      <h2>👤 About Me</h2>
+      <p>I am an AI/ML Engineer and Full Stack Developer focused on computer vision, scalable backend architectures, and writing clean, production-ready code.</p>
       <ul>
-        <li>🎓 <b>Academics:</b> B.Tech with 9.62 / 10.0 CGPA.</li>
-        <li>🏛️ <b>Leadership:</b> Chairperson of SRMIST ACM & Region 4 Coordinator (ACM India).</li>
-        <li>🌱 <b>Current Stack:</b> Deep integrations with Django, TensorFlow, and YOLOv8 models.</li>
+        <li>🎓 <b>Academics:</b> B.Tech with an exceptional <b>9.62 / 10.0 CGPA</b>.</li>
+        <li>🏛️ <b>Leadership:</b> Chairperson of the SRMIST ACM Student Chapter & Region 4 Coordinator for ACM India.</li>
+        <li>🌱 <b>Current Focus:</b> Seamless production integration between Django, TensorFlow, and YOLOv8 architectures.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <h3><code>❯ ~/featured_projects</code></h3>
+      <h2>🚀 Featured Projects</h2>
       <ul align="left">
-        <li><b>🚗 C-ADAS:</b> Real-time pothole detection (YOLOv8 & Django).</li>
-        <li><b>👁️ Drowsiness Alert:</b> Driver safety AI (EAR algorithm).</li>
-        <li><b>📈 FinQube:</b> ML platform for stock & portfolio optimization.</li>
+        <li><b>🚗 C-ADAS:</b> Real-time road hazard and pothole detection using YOLOv8 and Django.</li>
+        <li><b>👁️ Drowsiness Alert:</b> Computer vision driver safety AI leveraging the EAR algorithm.</li>
+        <li><b>📈 FinQube:</b> ML application specialized in retail stock recommendations and portfolio optimization.</li>
       </ul>
     </td>
   </tr>
@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-  <h3><code>❯ ~/tech_stack</code></h3>
+  <h2>🛠️ Tech Stack & Ecosystem</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,tensorflow,django,mongodb,html,css,js,aws,docker,kubernetes,git,linux,github&perline=10" alt="Tech Stack" />
   </a>
@@ -44,7 +44,7 @@
 <br>
 
 <div align="center">
-  <h3><code>❯ ~/github_analytics</code></h3>
+  <h2>📊 GitHub Analytics Dashboard</h2>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvnskm&bg_color=0D1117&color=00F0FF&line=7000FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   
@@ -74,7 +74,7 @@
 <br>
 
 <div align="center">
-  <h3><code>❯ ~/network</code></h3>
+  <h2>🌐 Let's Connect</h2>
   <a href="https://linkedin.com/in/mohan-tiruvaipati">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -86,5 +86,5 @@
   </a>
   
   <br><br>
-  <p><i><code>System.out.println("Building robust backend systems and AI models today for a smarter tomorrow.");</code></i></p>
+  <p><i>"Building robust backend systems and intelligent AI models today for a smarter tomorrow."</i></p>
 </div>

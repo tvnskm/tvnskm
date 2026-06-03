@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Integrating+AI+with+Backend+Systems;Building+Scalable+Architectures;SRMIST+ACM+Chapter+Chairperson" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%3E+cat+expertise.txt;%3E+AI%2FML+Backend+Engineering;%3E+Scalable+Cloud+Architectures;%3E+ACM+Chapter+Chairperson" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,17 +12,17 @@
 
 <table align="center" border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h2>👤 About Me</h2>
-      <p>I am an AI/ML Engineer and Full Stack Developer focused on computer vision, scalable backend architectures, and writing clean, production-ready code.</p>
+    <td width="55%" valign="top">
+      <h3><code>❯ cat profile.md</code></h3>
+      <p>I am an AI/ML Engineer and Full Stack Developer focused on computer vision, scalable backend architectures, and clean, production-ready code.</p>
       <ul>
         <li>🎓 <b>Academics:</b> B.Tech with an exceptional <b>9.62 / 10.0 CGPA</b>.</li>
         <li>🏛️ <b>Leadership:</b> Chairperson of the SRMIST ACM Student Chapter & Region 4 Coordinator for ACM India.</li>
-        <li>🌱 <b>Current Focus:</b> Seamless production integration between Django, TensorFlow, and YOLOv8 architectures.</li>
+        <li>🌱 <b>Current Focus:</b> Production integrations between Django, TensorFlow, and YOLOv8 architectures.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="top">
-      <h2>🚀 Featured Projects</h2>
+    <td width="45%" align="center" valign="top">
+      <h3><code>❯ ls projects/</code></h3>
       <ul align="left">
         <li><b>🚗 C-ADAS:</b> Real-time road hazard and pothole detection using YOLOv8 and Django.</li>
         <li><b>👁️ Drowsiness Alert:</b> Computer vision driver safety AI leveraging the EAR algorithm.</li>
@@ -35,7 +35,8 @@
 <br>
 
 <div align="center">
-  <h2>🛠️ Tech Stack & Ecosystem</h2>
+  <h3><code>❯ python3 -m show_tech_stack</code></h3>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cpp,c,tensorflow,django,mongodb,html,css,js,aws,docker,kubernetes,git,linux,github&perline=10" alt="Tech Stack" />
   </a>
@@ -44,7 +45,8 @@
 <br>
 
 <div align="center">
-  <h2>📊 GitHub Analytics Dashboard</h2>
+  <h3><code>❯ ./generate_dashboard.sh</code></h3>
+  <br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvnskm&bg_color=0D1117&color=00F0FF&line=7000FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   
@@ -74,7 +76,8 @@
 <br>
 
 <div align="center">
-  <h2>🌐 Let's Connect</h2>
+  <h3><code>❯ ssh connect@tvnskm.dev</code></h3>
+  <br>
   <a href="https://linkedin.com/in/mohan-tiruvaipati">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

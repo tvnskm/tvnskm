@@ -1,97 +1,78 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tvnskm&color=blueviolet" alt="Profile Views" />
-
-  <h1>
-    Hi there, I'm Mohan VNSK Tiruvaipati <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  </h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full+Stack+Developer;ACM+Chapter+Chairperson;Python+Back-end+Developer" alt="Typing SVG" />
-  </a>
-  <p><i>Building intelligent systems and elegant interfaces — from computer vision to cloud-native backends.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:8b5cf6&height=250&section=header&text=Mohan%20VNSK%20Tiruvaipati&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20/%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descColor=e2e8f0" alt="Animated Header" />
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tvnskm&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;ACM+Chapter+Chairperson;Python+Back-end+Developer;Cloud-Native+Architectures" alt="Typing SVG" />
+  </a>
+</div>
 
-### 👨‍💻 About Me
+<br>
 
-I am a passionate **AI/ML Engineer & Full Stack Developer** with a keen interest in integrating AI into robust, modern applications. Driven by curiosity, I specialize in computer vision, scalable backend architectures, and multi-language programming. 
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" /> Who am I?</h3>
+      <p>I am a passionate <b>AI/ML Engineer & Full Stack Developer</b> specializing in computer vision, scalable backend architectures, and multi-language programming.</p>
+      <ul>
+        <li>🎓 <b>Academics:</b> Pursuing my degree with a CGPA of <b>9.62 / 10.0</b>.</li>
+        <li>🏛️ <b>Leadership:</b> Chairperson of the SRMIST ACM Student Chapter & Region 4 Coordinator (ACM India).</li>
+        <li>🌱 <b>Currently exploring:</b> Deep integrations between Django, TensorFlow, and YOLOv8 models.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Featured AI Projects</h3>
+      <ul align="left">
+        <li><b>🚗 C-ADAS:</b> Real-time pothole detection using YOLOv8 & Django.</li>
+        <li><b>👁️ Drowsiness Detection:</b> Driver safety AI utilizing the EAR algorithm.</li>
+        <li><b>📈 FinQube:</b> ML platform for stock recommendations & portfolio optimization.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-* 🎓 **Academics:** Pursuing my degree with a CGPA of **9.62 / 10.0**.
-* 🏛️ **Leadership:** **Chairperson** of the SRMIST ACM Student Chapter and **Region 4 Coordinator** (Tamil Nadu & Kerala) for ACM India. Also mentoring students as an Assistant Coding Instructor.
-* 🌱 **Currently exploring:** Advanced deep integrations between Django, TensorFlow, and YOLOv8 models for real-world production.
-* 📝 **Content & Updates:** I share my professional journey on [LinkedIn](https://linkedin.com/in/mohan-tiruvaipati) and [Instagram](https://instagram.com/i_tvnskmohan).
-* 🌐 **Portfolio:** Deep dive into my work at [tvnskm.dev](https://tvnskm.dev).
-
----
-
-### 🚀 Featured Projects & Innovations
-
-* **🚗 C-ADAS (Road Hazard Detection):** Real-time pothole and road anomaly detection using **YOLOv8**, **OpenCV**, and **Django REST APIs**.
-* **👁️ Real-Time Drowsiness Detection:** Driver safety AI utilizing the **Eye Aspect Ratio (EAR)** algorithm and **OpenCV** to trigger multi-stage fatigue alerts.
-* **📈 FinQube (AI Financial Platform):** Applied machine learning platform for stock recommendations and portfolio optimization for retail investors.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Programming Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**AI, ML & Computer Vision**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black)
-
-**Backend, DB & Web** ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5/CSS/JS](https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Cloud, DevOps & Tools**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📜 Certifications
-
-* **AWS:** Certified Solutions Architect | Generative AI | Cloud Foundations
-* **Oracle:** Cloud Infrastructure (OCI) 2024 Data Foundations Associate
-* **SAP:** Certified Development Specialist - ABAP for SAP HANA
-* **MongoDB:** Certified Developer, Associate
-* **NPTEL & Google:** Machine Learning | Programming in Java | AI-ML Virtual Internship
-
----
+<br>
 
 <div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Tech Stack & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,tensorflow,django,mongodb,html,css,js,aws,docker,kubernetes,git,linux,github&perline=8" alt="Tech Stack" />
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> GitHub Analytics</h3>
   
-### 📊 GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tvnskm&show_icons=true&theme=tokyonight" alt="tvnskm's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=tvnskm&theme=tokyonight" alt="tvnskm's GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvnskm&layout=compact&theme=tokyonight" alt="Top Langs" />
-
-### 🏆 GitHub Trophies
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=tvnskm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvnskm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://streak-stats.demolab.com/?user=tvnskm&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+      </td>
+    </tr>
+  </table>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tvnskm&theme=onedark" alt="tvnskm trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tvnskm&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
-
 </div>
 
----
-
-### 🌐 Let's Connect 
+<br><br>
 
 <div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect</h3>
   <a href="https://linkedin.com/in/mohan-tiruvaipati">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -101,9 +82,8 @@ I am a passionate **AI/ML Engineer & Full Stack Developer** with a keen interest
   <a href="https://tvnskm.dev">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-<br/>
-<div align="center">
-  <i>Building robust backend systems and AI models today for a smarter tomorrow. Thanks for visiting my profile!</i>
+  
+  <br><br>
+  
+  <p><i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" /> Building robust backend systems and AI models today for a smarter tomorrow.</i></p>
 </div>

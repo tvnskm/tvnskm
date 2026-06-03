@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=200&section=header&text=Mohan%20VNSK%20Tiruvaipati&fontSize=48&fontColor=58A6FF&animation=fadeIn&desc=AI%20/%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=C9D1D9&textY=40&descAlignY=65" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7000FF&height=220&section=header&text=Mohan%20VNSK%20Tiruvaipati&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%20/%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=e2e8f0&textY=45&descAlignY=70" alt="Animated Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+python3+-m+build_intelligent_systems;%3E+sudo+systemctl+start+cloud_native;%3E+./deploy_ai_models.sh;%3E+git+commit+-m+%22ACM+Chairperson%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%3E+python3+-m+build_intelligent_systems;%3E+sudo+systemctl+start+cloud_native;%3E+./deploy_ai_models.sh;%3E+git+commit+-m+%22ACM+Chairperson%22" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,28 +46,28 @@
 <div align="center">
   <h3><code>❯ ~/github_analytics</code></h3>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvnskm&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvnskm&bg_color=0D1117&color=00F0FF&line=7000FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   
   <br><br>
 
   <table align="center" border="0" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=tvnskm&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" alt="GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=tvnskm&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvnskm&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvnskm&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://streak-stats.demolab.com/?user=tvnskm&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub streak" />
+        <img src="https://streak-stats.demolab.com/?user=tvnskm&theme=radical&hide_border=true" alt="GitHub streak" />
       </td>
     </tr>
   </table>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tvnskm&theme=onedark&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tvnskm&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
